@@ -92,7 +92,7 @@ This project focuses on building an **interactive and insightful sales dashboard
 ## 📸 **Dashboard Preview**  
 *Below is a preview of the dashboard:*  
 
-![Dashboard Preview](ADD-YOUR-SCREENSHOT-URL-HERE)
+![Dashboard Preview](https://github.com/mahadevhere/Sales-Analysis-Dashboard/blob/main/Screenshot%202025-02-05%20131254.png)
 
 ---
 
